@@ -34,7 +34,7 @@ As informações extraídas incluem:
 ---
 
 ## 🔒 **Notas de Segurança**
-As credenciais de acesso e variáveis de ambiente não são expostas no repositório. É necessário fornecer seus próprios arquivos para rodar o container.
+As credenciais de acesso e variáveis de ambiente não são expostas no repositório. É necessário fornecer seus próprios arquivos para rodar a aplicação.
 
 ---
 
@@ -97,7 +97,7 @@ As credenciais de acesso e variáveis de ambiente não são expostas no reposit�
 
 ---
 
-# **API com os dados do Web Scraping**
+# 📱 **API com os dados do Web Scraping**
 - Desenvolvi também uma API que utiliza os dados coletados pelo web scraping e fornece diversos endpoints para uso dos dados. O projeto também conta com uma interface visual construída com data app. Fique a vontade para conhecer o projeto:
 
 - <a href="https://github.com/biancamayor/api_phonespot.git" target="_blank">API PhoneSpot</a>
